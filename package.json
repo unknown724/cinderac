@@ -55,7 +55,8 @@
     "@types/react": "~19.1.17",
     "eslint": "^9.39.1",
     "eslint-config-expo": "~10.0.0",
-    "typescript": "~5.9.3"
+    "typescript": "~5.9.3",
+    "babel-plugin-transform-import-meta": "^2.2.1"
   },
   "private": true
 }
